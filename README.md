@@ -66,7 +66,6 @@
 
 - 🎟️ **Movie Ticket Booking System**
 - 🌐 **REST API Projects**
-- 
 
 ---
 
