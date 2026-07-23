@@ -66,7 +66,7 @@
 
 - 🎟️ **Movie Ticket Booking System**
 - 🌐 **REST API Projects**
-- 💧 **Water Quality Analysis**
+- 
 
 ---
 
