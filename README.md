@@ -10,11 +10,10 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 B.Tech Information Technology Student
+- 🎓 B.Tech Information Technology Data Analysis Student
 - 🌱 Learning **Backend Development, REST APIs & System Design**
 - 🐍 Passionate about **Python, SQL & Flask**
 - 📚 Exploring **Docker, Linux & Authentication**
-- 📝 Published a research paper
 - 🎯 Goal: Become a Backend Software Engineer
 
 ---
